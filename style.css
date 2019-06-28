@@ -164,3 +164,11 @@ color: rgb(247, 173, 144);
     border: rgb(255, 255, 255) 3px solid;
 }
 
+.footer {
+    padding-top: 1rem;
+    text-align: center;
+    background-color: rgb(252, 217, 203);
+    text-shadow: 0 0 20px rgb(255, 80, 80);
+}
+
+

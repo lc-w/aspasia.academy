@@ -14,5 +14,6 @@
                 <button>add your story</button>
             </div>
         </div>
+    <? include "footer.php" ?>
 </body>
 </html>
