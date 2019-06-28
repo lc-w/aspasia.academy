@@ -7,8 +7,12 @@
 </head>
 <body>
     <? include "nav.php" ?>
-	<div class="container">
-    <h1>learn here</h1>
-    </div>
+        <div class="hero-image-2 mt-6">
+            <div class="hero-text-2">
+                <h1>Creative Practicing</h1>
+                <p>from aspasia academy</p>
+                <button>add your story</button>
+            </div>
+        </div>
 </body>
 </html>
