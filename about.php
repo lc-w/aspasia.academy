@@ -20,7 +20,9 @@
         <div class="about-right col-sm-6">
             <div class="about-text">
             <h1>Aspasia Academy </h1>
-            <p>is a place for women to share their stories of autonomy, feminism, entrepreneurship, artistic creation and technological learning. There is so much to understand through a direct learned experience, and sometimes its harder than you think to find a mentor or teacher in your reach. Sometimes all that is needed is to hear another's perspective. This platform is a place where women can share ideas, mark a daily practice, and connect with other creators and artists. Most importantly a place to share your creative experience with others from around the world.</p>
+            <p>is a place for women to remember the power of creative practice. To share our stories of autonomy, feminism, entrepreneurship, artistic creation and technological learning.</p>
+            <p>While making and iterating it is easy to get lost in the details, forgetting the pleasure of exploration. Remembering to listen and learn from others is a habit that needs a daily reminder.</p>
+            <p>There is so much to understand through a direct learned experience, and sometimes its harder than you think to find a mentor or teacher in your reach. This is a place where women can share ideas, mark a daily practice, and connect with other creators and artists. Most importantly a place to share your creative experience with others.<p>Exploration as creation.</p>
             </div>
         </div>
     </div>  

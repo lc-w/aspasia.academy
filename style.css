@@ -153,11 +153,14 @@ color: rgb(247, 173, 144);
 
 .about-right .about-text{
     text-align: center;
-    position: relative;
-    top: 20%;
-    left: 14%;
+    position: absolute;
+    /* transform: translate(-50%, -50%); */
+    display: block;
+    top: 13%;
+    left: 15%;
     padding: 50px;
     width: 500px;
     background-color: rgba(255, 255, 255, 0.5);
     border: rgb(255, 255, 255) 3px solid;
 }
+
