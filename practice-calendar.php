@@ -21,45 +21,37 @@
                 <!-- <button>And also.</button> -->
             </div>
         </div>
-        <div class="p-c-right col-sm-6">
+    <div class="p-c-right col-sm-6">
+        <div id="calendar" class="fc-calendar-container">
+                <div class="p-c-text-right">
+                    <div>Monday
+                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form>
+                    </div>
+                    <div>Tuesday
+                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form>
+                    </div>
+                    <div>Wednesday                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form>     
+                    </div>
+                    <div>Thursday                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form> 
+                    </div>
+                    <div>Friday
+                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form>
+                    </div>
+                    <div>Saturday
+                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form>
+                    </div>
+                    <div>Sunday                    <form><input type="checkbox" name="love" value="love" id="love"><label for="love"></label>
+</form> </div>
+                 </div>
+                </div>
         </div>
-    </div>  
-
-    <div id="calendar" class="fc-calendar-container">
-    <div class="fc-calendar fc-five-rows">
-	  <div class="fc-head">
-		 <div>Monday</div>
-		 <div>Tuesday</div>
-		 <div>Wednesday</div>
-		 <div>Thursday</div>
-		 <div>Friday</div>
-		 <div>Saturday</div>
-		 <div>Sunday</div>
-	  </div>
-	  <div class="fc-body">
-		 <div class="fc-row">
-			<div></div>
-			<div></div>
-			<div></div>
-			<div><span class="fc-date">1</span><span class="fc-weekday">Thu</span></div>
-			<div><span class="fc-date">2</span><span class="fc-weekday">Fri</span></div>
-			<div><span class="fc-date">3</span><span class="fc-weekday">Sat</span></div>
-			<div><span class="fc-date">4</span><span class="fc-weekday">Sun</span></div>
-		 </div>
-		 <div class="fc-row">
-			<!-- ... -->
-		 </div>
-		 <div class="fc-row">
-			<!-- ... -->
-		 </div>
-		 <div class="fc-row">
-			<!-- ... -->
-		 </div>
-		 <!-- ... -->
-	  </div>
     </div>
-</div>
-
-    <? include "footer.php" ?>
+<? include "footer.php" ?>
 </body>
 </html>

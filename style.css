@@ -141,14 +141,32 @@ button{
 
 .p-c-left {
     height: 100vh;
-    background-color: rgb(252, 241, 203);
+    background-color: rgb(235, 252, 203);
     position: relative;
 }
 
 .p-c-right {
     height: 100vh;
+    background-image: url("assets/toa-heftiba-kEcrRoxMnBY-unsplash.jpg");
     background-color: rgb(251, 252, 203);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 200%;
     position: relative;
+}
+
+.p-c-text-right {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(112, 112, 112);
+    display: block;
+    width: 425px;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border: rgb(255, 255, 255) 3px solid;
 }
 
 .p-c-text-left {
@@ -162,8 +180,51 @@ button{
     width: 425px;
     padding: 50px;
     background-color: rgba(255, 255, 255, 0.5);
+    border: rgb(255, 255, 255) 3px solid;   
+}
+
+.t-c-left {
+    height: 100vh;
+    background-image: url("assets/nathan-dumlao-_PK7rviBLG0-unsplash.jpg");
+    background-color: rgb(251, 252, 203);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    position: relative;
+}
+
+.t-c-right {
+    height: 100vh;
+    background-color: rgb(252, 251, 203);
+    position: relative;
+}
+
+.t-c-text-left {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(112, 112, 112);
+    display: block;
+    width: 425px;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.95);
     border: rgb(255, 255, 255) 3px solid;
-    
+}
+
+.t-c-text-right {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(112, 112, 112);
+    display: block;
+    width: 425px;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: rgb(255, 255, 255) 3px solid;   
 }
 
 .footer {

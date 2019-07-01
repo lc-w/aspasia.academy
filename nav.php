@@ -6,14 +6,14 @@
 
 <nav class="navbar justify-content-center">
         <ul class="nav justify-content-center">
+             <li class="nav-item">
+                <a class="nav-link" href="about.php">About</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="practice-calendar.php">Practice Calendar</a>
             </li>
-            <!-- <li class="nav-item">
-                <a class="nav-link" href="collaborate.php">Collaborate</a>
-            </li> -->
             <li class="nav-item">
-                <a class="nav-link" href="about.php">About</a>
+                <a class="nav-link" href="thought-catelogue.php">Thought Catelogue</a>
             </li>
         </ul>
 </nav>
