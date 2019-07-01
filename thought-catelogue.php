@@ -11,6 +11,11 @@
     <div class="row">
         <div class="t-c-left col-sm-6">
             <div class="t-c-text-left">
+            <textarea class="text">
+Had I been blessed with even limited access to my own mind there would have been no reason to write. I write entirely to find out what I'm thinking, what I'm looking at, who I see and what it means. What I want and what I fear.
+
+        - Joan Didion Why I Write
+            </textarea>
             </div>
         </div>
     <div class="t-c-right col-sm-6">
