@@ -30,7 +30,7 @@
         <div class="hero-text-1">
             <h1>On Reading</h1>
             <p>Nearly every book has the same architecture — cover, spine, pages — but you open them onto worlds and gifts far beyond what paper and ink are, and on the inside they are every shape and power. Some books are toolkits you take up to fix things, from the most practical to the most mysterious, from your house to your heart, or to make things, from cakes to ships...They can be doorways and ships and fortresses for anyone who loves them. <i>- Rebecca Solnit</i></p>
-            <button onclick="window.location.href = 'thought-catelogue.php';">Share your story</button>
+            <button onclick="window.location.href = 'thought-catalogue.php';">Share your story</button>
         </div>
     </div>
     <? include "footer.php" ?>

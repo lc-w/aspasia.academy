@@ -13,7 +13,7 @@
                 <a class="nav-link" href="practice-calendar.php">Practice Calendar</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="thought-catelogue.php">Thought Catelogue</a>
+                <a class="nav-link" href="thought-catalogue.php">Thought Catalogue</a>
             </li>
         </ul>
 </nav>
